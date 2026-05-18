@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Powered Fraud Email & Message Detection System
 
 A full-stack web application that detects fraudulent emails, SMS, and links using AI/ML models.
